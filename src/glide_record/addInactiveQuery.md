@@ -1,4 +1,4 @@
-# addInactiveQuery
+# addInactiveQuery()
 Appends `active=false` to the encoded query of the GlideRecord. Ordering matters,
 i.e. calling `addInctiveQuery()` before adding a query will append `active=false`
 first while calling `addInactiveQuery()` after adding a query will append

@@ -8,10 +8,10 @@
     - [addExtraField](./glide_record/addExtraField.md)
     - [addFunction](./glide_record/addFunction.md)
     - [addInactiveQuery](./glide_record/addInactiveQuery.md)
-    - [addJoinQuery (wip)](./glide_record/addJoinQuery.md)
-    - [addNotNullQuery (wip)](./glide_record/addNotNullQuery.md)
-    - [addNullQuery (wip)](./glide_record/addNullQuery.md)
-    - [addQuery (wip)](./glide_record/addQuery.md)
+    - [addJoinQuery](./glide_record/addJoinQuery.md)
+    - [addNotNullQuery (example issue)](./glide_record/addNotNullQuery.md)
+    - [addNullQuery (example issue)](./glide_record/addNullQuery.md)
+    - [addQuery](./glide_record/addQuery.md)
     - [addQueryHint (wip)](./glide_record/addQueryHint.md)
     - [addUserQuery (wip)](./glide_record/addUserQuery.md)
     - [addValue (wip)](./glide_record/addValue.md)
@@ -168,6 +168,8 @@
 - [GlideDateTime (wip)](./glide_date_time.md)
 - [g_form (wip)](./g_form.md)
 - [g_user (wip)](./g_user.md)
+- [Table API](./table_api.md)
+- [URL and Encoded Query Easter Eggs](./encoded_query_easter_eggs.md)
 - [Useful Snippets (wip)](./snippets.md)
 
 

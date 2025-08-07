@@ -1,4 +1,4 @@
-# addExtraField
+# addExtraField(dotWalk)
 Allows for better dot walking performance by front loading certain pieces of a child record with the intial encodedQuery.
 
 

@@ -1,4 +1,4 @@
-# addEncodedQuery
+# addEncodedQuery(query)
 If the GlideRecords internal encoded query is not null, this will append a `^`
 to the GlideRecord's internal encoded query and then append the query provided
 in the method's parameters to the GlideRecord's internal encoded query.
@@ -8,7 +8,7 @@ query provided in the method's parameters to the gliderecord's internal encoded
 query.
 
 ## Parameters:
-- **encodedQuery**: String
+- **query**: String
 
 ## Returns: None
 

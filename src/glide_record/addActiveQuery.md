@@ -1,4 +1,4 @@
-# addActiveQuery
+# addActiveQuery()
 Appends `active=true` to the encoded query of the GlideRecord. Ordering matters,
 i.e. calling `addActiveQuery()` before adding a query will append `active=true`
 first while calling `addActiveQuery()` after adding a query will append

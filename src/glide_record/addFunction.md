@@ -1,4 +1,4 @@
-# addFunction
+# addFunction(functionBuilder)
 Allows for queries to be built using the [GlideDBFunctionBuilder](/glide_db_function_builder.md) object.
 
 ## Parameters:
