@@ -14,10 +14,10 @@ docs, feel free to submit a pull request.
     - [x] **addExtraField**
     - [x] **addFunction**
     - [x] **addInactiveQuery**
-    - [ ] **addJoinQuery**
-    - [ ] **addNotNullQuery**
-    - [ ] **addNullQuery**
-    - [ ] **addQuery**
+    - [x] **addJoinQuery**
+    - [x] **addNotNullQuery**
+    - [x] **addNullQuery**
+    - [x] **addQuery**
     - [ ] **addQueryHint**
     - [ ] **addUserQuery**
     - [ ] **addValue**
