@@ -3,4 +3,7 @@ authors = ["Robert Junkins"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Unofficial Documentation of ServiceNow APIs"
+title = "The Super Unofficial Documentation of ServiceNow APIs"
+
+[output.html.fold]
+enable = true

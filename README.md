@@ -1,1 +1,176 @@
-# snow_docs_unofficial
+# The Super Unofficial Documentation of ServiceNow APIs
+ServiceNow's docs are slow and seem to have a memory leak for firfox so I am
+making a mirror of sorts. They won't probably be as up to date, but most things
+don't change that much anyways. If you find an error would like to add more supported
+docs, feel free to submit a pull request.
+
+
+## Currently Supported Docs
+- [ ] **GlideRecord**
+  - [Methods]
+    - [x] **addActiveQuery**
+    - [ ] **addDomainQuery**
+    - [x] **addEncodedQuery**
+    - [x] **addExtraField**
+    - [x] **addFunction**
+    - [x] **addInactiveQuery**
+    - [ ] **addJoinQuery**
+    - [ ] **addNotNullQuery**
+    - [ ] **addNullQuery**
+    - [ ] **addQuery**
+    - [ ] **addQueryHint**
+    - [ ] **addUserQuery**
+    - [ ] **addValue**
+    - [ ] **appendOrQuery**
+    - [ ] **applyEncodedQuery**
+    - [ ] **applyRowSecurity**
+    - [ ] **applyTemplate**
+    - [ ] **attachGlideListener**
+    - [ ] **autoSysFields**
+    - [ ] **canCreate**
+    - [ ] **canDelete**
+    - [ ] **canRead**
+    - [ ] **canWrite**
+    - [ ] **changes**
+    - [ ] **chooseWindow**
+    - [ ] **close**
+    - [ ] **constructor**
+    - [ ] **createElement**
+    - [ ] **createIndex**
+    - [ ] **deleteMultiple**
+    - [ ] **deleteRecord**
+    - [ ] **disableSecurityFeature**
+    - [ ] **disableSysIdInOptimization**
+    - [ ] **dropIndex**
+    - [ ] **enableSecurityFeature**
+    - [ ] **enableSessionLanguageJoin**
+    - [ ] **evaluateAsDefault**
+    - [ ] **find**
+    - [ ] **findForeignKey**
+    - [ ] **get**
+    - [ ] **getAttribute**
+    - [ ] **getBooleanAttribute**
+    - [ ] **getCategory**
+    - [ ] **getClassDisplayValue**
+    - [ ] **getDisplayName**
+    - [ ] **getDisplayValue**
+    - [ ] **getDynamicAttribute**
+    - [ ] **getDynamicAttributeDisplayValue**
+    - [ ] **getDynamicAttributeValue**
+    - [ ] **getED**
+    - [ ] **getElement**
+    - [ ] **getElements**
+    - [ ] **getEncodedQuery**
+    - [ ] **getEngineParameter**
+    - [ ] **getEscapedDisplayValue**
+    - [ ] **getFields**
+    - [ ] **getGeoPoint**
+    - [ ] **getLabel**
+    - [ ] **getLastErrorMessage**
+    - [ ] **getLink**
+    - [ ] **getLocation**
+    - [ ] **getPlural**
+    - [ ] **getRecordClassName**
+    - [ ] **getRelatedLists**
+    - [ ] **getRelatedRecords**
+    - [ ] **getRelatedTables**
+    - [ ] **getRequestedElements**
+    - [ ] **getRowCount**
+    - [ ] **getRowNumber**
+    - [ ] **getSetRowCount**
+    - [ ] **getTableName**
+    - [ ] **getTableScope**
+    - [ ] **getTableScopeId**
+    - [ ] **getTableScopeName**
+    - [ ] **getUniqueValue**
+    - [ ] **getValue**
+    - [ ] **getViewDefinition**
+    - [ ] **hasAttachments**
+    - [ ] **hasClass**
+    - [ ] **hasNext**
+    - [ ] **hasOwnProperty**
+    - [ ] **hasRightsTo**
+    - [ ] **incrementViewCount**
+    - [ ] **initialize**
+    - [ ] **insert**
+    - [ ] **insertLazy**
+    - [ ] **insertOrUpdate**
+    - [ ] **insertWithReferences**
+    - [ ] **instanceOf**
+    - [ ] **isActionAborted**
+    - [ ] **isDataFabricOperation**
+    - [ ] **isEncodedQueryValid**
+    - [ ] **isForeignTable**
+    - [ ] **isInGlobalScope**
+    - [ ] **isInSelectedScope**
+    - [ ] **isInStoreScope**
+    - [ ] **isMetadata**
+    - [ ] **isNewRecord**
+    - [ ] **isPrototypeOf**
+    - [ ] **isReadonly**
+    - [ ] **isValid**
+    - [ ] **isValidEncodedQuery**
+    - [ ] **isValidField**
+    - [ ] **isValidMetadataRecord**
+    - [ ] **isValidRecord**
+    - [ ] **isView**
+    - [ ] **isWorkflow**
+    - [ ] **largeResultExpected**
+    - [ ] **makeReadonly**
+    - [ ] **moreEncodedQuery**
+    - [ ] **newGlideRecordNamed**
+    - [ ] **newRecord**
+    - [ ] **next**
+    - [ ] **nextRecord**
+    - [ ] **notifyUser**
+    - [ ] **onePassQuery**
+    - [ ] **operation**
+    - [ ] **orderBy**
+    - [ ] **orderByDesc**
+    - [ ] **popCurrent**
+    - [ ] **propertyIsEnumerable**
+    - [ ] **putCurrent**
+    - [ ] **putOptimizers**
+    - [ ] **query**
+    - [ ] **queryNoDomain**
+    - [ ] **restoreLocation**
+    - [ ] **saveLocation**
+    - [ ] **scheduleScript**
+    - [ ] **setAbortAction**
+    - [ ] **setCategory**
+    - [ ] **setDisplayValue**
+    - [ ] **setDynamicAttributeDisplayValue**
+    - [ ] **setDynamicAttributeDisplayValues**
+    - [ ] **setDynamicAttributeValue**
+    - [ ] **setDynamicAttributeValues**
+    - [ ] **setEngineParameter**
+    - [ ] **setForceUpdate**
+    - [ ] **setLimit**
+    - [ ] **setLocation**
+    - [ ] **setNewGuid**
+    - [ ] **setNewGuidValue**
+    - [ ] **setNoCount**
+    - [ ] **setQueryReferences**
+    - [ ] **setSystem**
+    - [ ] **setUseEngines**
+    - [ ] **setValue**
+    - [ ] **setViewDefinition**
+    - [ ] **setWorkflow**
+    - [ ] **targetExtension**
+    - [ ] **toLocaleString**
+    - [ ] **toSource**
+    - [ ] **toString**
+    - [ ] **update**
+    - [ ] **updateElement**
+    - [ ] **updateLazy**
+    - [ ] **updateMultiple**
+    - [ ] **updateMultipleAllowNull**
+    - [ ] **updateNoDomain**
+    - [ ] **updateWithReferences**
+
+- [ ] **GlideRecordSecure**
+- [ ] **GlideDBFunctionBuilder**
+- [ ] **GlideDate**
+- [ ] **GlideDateTime**
+- [ ] **g_form**
+- [ ] **g_user**
