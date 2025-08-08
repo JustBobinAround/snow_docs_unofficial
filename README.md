@@ -1,7 +1,7 @@
 # The Super Unofficial Documentation of ServiceNow APIs
-ServiceNow's docs are slow and seem to have a memory leak for firfox so I am
+ServiceNow's docs are slow and seem to have a memory leak for firefox so I am
 making a mirror of sorts. They won't probably be as up to date, but most things
-don't change that much anyways. If you find an error would like to add more supported
+don't change that much anyways. If you find an error or would like to add more supported
 docs, feel free to submit a pull request.
 
 
