@@ -18,7 +18,7 @@
     - [appendOrQuery (undocumented)](./glide_record/appendOrQuery.md)
     - [applyEncodedQuery](./glide_record/applyEncodedQuery.md)
     - [applyRowSecurity](./glide_record/applyRowSecurity.md)
-    - [applyTemplate (wip)](./glide_record/applyTemplate.md)
+    - [applyTemplate](./glide_record/applyTemplate.md)
     - [attachGlideListener (wip)](./glide_record/attachGlideListener.md)
     - [autoSysFields (wip)](./glide_record/autoSysFields.md)
     - [canCreate (wip)](./glide_record/canCreate.md)

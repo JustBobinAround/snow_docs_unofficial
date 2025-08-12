@@ -19,12 +19,12 @@ docs, feel free to submit a pull request.
     - [x] **addNullQuery**
     - [x] **addQuery**
     - [ ] **addQueryHint**
-    - [ ] **addUserQuery**
-    - [ ] **addValue**
+    - [x] **addUserQuery**
+    - [x] **addValue**
     - [ ] **appendOrQuery**
-    - [ ] **applyEncodedQuery**
-    - [ ] **applyRowSecurity**
-    - [ ] **applyTemplate**
+    - [x] **applyEncodedQuery**
+    - [x] **applyRowSecurity**
+    - [x] **applyTemplate**
     - [ ] **attachGlideListener**
     - [ ] **autoSysFields**
     - [ ] **canCreate**
