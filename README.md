@@ -26,15 +26,14 @@ docs, feel free to submit a pull request.
     - [x] **applyRowSecurity**
     - [x] **applyTemplate**
     - [ ] **attachGlideListener**
-    - [ ] **autoSysFields**
-    - [ ] **canCreate**
-    - [ ] **canDelete**
-    - [ ] **canRead**
-    - [ ] **canWrite**
+    - [x] **autoSysFields**
+    - [x] **canCreate**
+    - [x] **canDelete**
+    - [x] **canRead**
+    - [x] **canWrite**
     - [ ] **changes**
     - [ ] **chooseWindow**
     - [ ] **close**
-    - [ ] **constructor**
     - [ ] **createElement**
     - [ ] **createIndex**
     - [ ] **deleteMultiple**
