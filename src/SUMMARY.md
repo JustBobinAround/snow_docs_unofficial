@@ -188,5 +188,6 @@
 - [Table API](./table_api.md)
 - [URL and Encoded Query Easter Eggs](./encoded_query_easter_eggs.md)
 - [Useful Snippets (wip)](./snippets.md)
+  - [Set application to private scope](./snippets/set_application_to_private_scope.md)
 
 
