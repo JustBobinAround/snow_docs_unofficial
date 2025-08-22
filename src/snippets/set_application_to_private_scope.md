@@ -1,9 +1,12 @@
-# Set application to private scope
+# Set Application to Private Scope
 Go to `sys_store_app.list` and open any private application record that can normally not be set as the current users application.
 
-Press ctrl+shift+J to open client script runner and then run the script in the snippet section.
+Press ctrl+shift+J to open the client script runner and then run the script in the snippet section.
 
-Hard refresh the page after just to be on the safe side. Then private scoped application files can be edited.
+Hard refresh the page after just to be on the safe side. Then the private scoped
+application files can be edited. This doesn't override read-only protected
+files. Please feel free to submit a pull request to these docs if you know a way
+around read-only protections.
 
 ## Snippet
 ```js
