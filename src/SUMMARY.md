@@ -184,13 +184,17 @@
     - [wait (wip)](./glide_template/wait.md)
 - [GlideSecurityManager (wip)](./glide_security_manager.md)
 - [g_form (wip)](./g_form.md)
+  - [removeOption (wip)](./g_form/removeOption.md)
+  - [getElement (deprecated)](./g_form/getElement.md)
+  - [getField (wip)](./g_form/getField.md)
+  - [showFieldMsg (wip)](./g_form/showFieldMsg.md)
 - [g_user (wip)](./g_user.md)
 - [Table API](./table_api.md)
 - [URL and Encoded Query Easter Eggs](./encoded_query_easter_eggs.md)
 - [Useful Snippets (wip)](./snippets.md)
   -[scripts](./snippets.md)
   - [Set Application to Private Scope](./snippets/set_application_to_private_scope.md)
+  - [Get select box options (g_form)](./snippets/get_select_box_options.md)
   -[Regular Expressions](./snippets.md)
   - [Useful sys_update_xml regex](./snippets/useful_sys_update_xml_regex.md)
-
-
+  

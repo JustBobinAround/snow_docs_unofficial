@@ -10,7 +10,6 @@ if (updateGr.next()) {
   gs.print(match[0]);
   gs.print(match[1]);
   gs.print(match[2]);
-  
 }
 ```
 
